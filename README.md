@@ -12,10 +12,9 @@
 ### 👨‍💻 &nbsp; About Me:<br/>
 - 👋 I’m Parsa Mohammadpour
 - 🌱 Computer Science and Engineering student👨‍🎓
-- 🔭 +3 years of work experience as software engineer💻
-- 📫 How to reach me: Follow my contact information given below ...
+- 🔭 Have some work experience as Software Engineer💻
 - 👯 Looking to collaborate on GitHub
-<br/>
+- 📫 How to reach me: Follow my contact information given below ...
 <br/>
 
 ### 🛠 &nbsp; Languages and Tools:
@@ -48,7 +47,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="70" height="70"/>&nbsp;
 <p/>
 <br/>
-<br/>
 
 ### 🔥 Stats:<br/>
 <p float="left">
@@ -61,7 +59,6 @@
   
 </p>
 <br/>
-<br/>
 
 ### Connect with me:<br/>
 
@@ -70,5 +67,3 @@
 [<img src='https://github.com/user-attachments/assets/e8196f91-721b-4835-b4a3-e448b9a4c1b4' title='Telegram' alt='Telegram' width='30' height='30'>](https://t.me/parsa_mohammadpour) &emsp;
 [<img src='https://github.com/user-attachments/assets/b56cd9fc-45c5-4a7d-b1ef-4bcd3db6c7ca' title='Instagram' alt='Instagram' width='30' height='30'>](https://www.instagram.com/paarrrssa) &emsp;
 [<img src='https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg' title='Twitter' alt='Twitter' width='30' height='30'>](https://x.com/paarrrssa) &emsp;
-
-<br/>
