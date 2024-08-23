@@ -11,7 +11,6 @@
   </h4>
   <br/>
 </div>
-<br/>
 
 ### 👨‍💻 &nbsp; About Me:<br/>
 - 👋 I’m Parsa Mohammadpour
